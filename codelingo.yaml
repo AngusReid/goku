@@ -8,4 +8,4 @@ tenets:
   - import: codelingo/go/bool-param
   - import: codelingo/go/goto
   - import: codelingo/go/todo
-  - import: codelingo/go/lightning-network-daemon/exported-package-is-tested
+  - import: codelingo/lightning-network-daemon/exported-package-is-tested
